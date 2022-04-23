@@ -36,5 +36,5 @@ The project was done collabratively, where all members were involved in every pa
 
 ## References
 https://www.datacamp.com/community/tutorials/xgboost-in-python
-https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f
+https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f  
 https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries
