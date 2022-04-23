@@ -1,6 +1,6 @@
 # SC1015 MINIPROJECT
 # INTRO TO DATA SCI & ART INTELL
-School of Computer Science and Engineering
+School of Computer Science and Engineering  
 Nanyang Technological University
 
 ## Authors
