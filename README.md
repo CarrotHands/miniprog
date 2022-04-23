@@ -31,6 +31,9 @@ There are many jobs that require the skill of computer engineering and computer 
 * When we did the one to one comparision of the different education (PHD, Masters and Bachelors), the IQR and median of the individuals with Masters and Bachelors are very similar, while the PHD holder have a better starting point. 
 * Years of experience would be more worth as compared to furthering your education 
 
+## Member Contribution
+The project was done collabratively, where all members were involved in every part of the process.
+
 ## References
 https://www.datacamp.com/community/tutorials/xgboost-in-python
 https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f
