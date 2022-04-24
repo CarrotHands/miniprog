@@ -35,7 +35,8 @@ There are many jobs that require the skill of computer engineering and computer 
 The project was done collabratively, where all members were involved in every part of the process.
 
 ## References
+https://www.levels.fyi/?compare=ByteDance,Facebook,JPMorgan%20Chase&track=Software%20Engineer
 https://www.datacamp.com/community/tutorials/xgboost-in-python  
 https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f  
 https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries
-https://www.levels.fyi/?compare=ByteDance,Facebook,JPMorgan%20Chase&track=Software%20Engineer
+
